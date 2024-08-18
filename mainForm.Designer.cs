@@ -3,7 +3,7 @@ using System.Drawing;
 
 namespace PaintClass
 {
-    partial class Form1
+    partial class mainForm
     {
         /// <summary>
         /// Required designer variable.
@@ -32,7 +32,7 @@ namespace PaintClass
 
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(mainForm));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.newToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();

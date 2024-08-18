@@ -34,7 +34,7 @@ namespace PaintClass
     }
 
 
-    public partial class Form1 : Form
+    public partial class mainForm : Form
     {
         // Create attributes fr satring and ending points
         int x1, y1;
@@ -60,7 +60,7 @@ namespace PaintClass
 
         private Color currentColor = Color.Black; // Default color
 
-        public Form1()
+        public mainForm()
         {
             InitializeComponent();
             // Initialize ColorPalette

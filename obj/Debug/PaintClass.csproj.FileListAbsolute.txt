@@ -2,9 +2,9 @@ C:\Users\DELL\OneDrive\Desktop\Fifth Sem\APT\PaintClass\bin\Debug\PaintClass.exe
 C:\Users\DELL\OneDrive\Desktop\Fifth Sem\APT\PaintClass\bin\Debug\PaintClass.exe
 C:\Users\DELL\OneDrive\Desktop\Fifth Sem\APT\PaintClass\bin\Debug\PaintClass.pdb
 C:\Users\DELL\OneDrive\Desktop\Fifth Sem\APT\PaintClass\obj\Debug\PaintClass.csproj.AssemblyReference.cache
-C:\Users\DELL\OneDrive\Desktop\Fifth Sem\APT\PaintClass\obj\Debug\PaintClass.Form1.resources
 C:\Users\DELL\OneDrive\Desktop\Fifth Sem\APT\PaintClass\obj\Debug\PaintClass.Properties.Resources.resources
 C:\Users\DELL\OneDrive\Desktop\Fifth Sem\APT\PaintClass\obj\Debug\PaintClass.csproj.GenerateResource.cache
 C:\Users\DELL\OneDrive\Desktop\Fifth Sem\APT\PaintClass\obj\Debug\PaintClass.csproj.CoreCompileInputs.cache
 C:\Users\DELL\OneDrive\Desktop\Fifth Sem\APT\PaintClass\obj\Debug\PaintClass.exe
 C:\Users\DELL\OneDrive\Desktop\Fifth Sem\APT\PaintClass\obj\Debug\PaintClass.pdb
+C:\Users\DELL\OneDrive\Desktop\Fifth Sem\APT\PaintClass\obj\Debug\PaintClass.mainForm.resources
