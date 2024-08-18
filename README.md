@@ -2,7 +2,8 @@
 # Paint 🎨
 
 A simple paint application with basic drawing tools and color options.
-![Output Window](Output_Form.png)
+
+   ![Output Window](Output_Form.png)
 
 
 ## Features ✨
