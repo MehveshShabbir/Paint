@@ -1,7 +1,7 @@
 
 # Paint 🎨
 
-A simple paint application with essential drawing tools and color options.
+A simple paint application with basic drawing tools and color options.
 
 ## Features ✨
 - Draw shapes: Line, Rectangle, Square, Circle, Triangle, Star
